@@ -1,4 +1,4 @@
-package com.asthana.androidcicd
+package com.johny.androidcicd
 
 import org.junit.Test
 

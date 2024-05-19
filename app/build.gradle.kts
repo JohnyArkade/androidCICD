@@ -4,16 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.asthana.androidcicd"
+    namespace = "com.johny.androidcicd"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.asthana.androidcicd"
+        applicationId = "com.johny.androidcicd"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
-
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
